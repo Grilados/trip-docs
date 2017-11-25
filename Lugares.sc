@@ -1,0 +1,5 @@
+- Id
+- Nome 
+- Descricao 
+- Foto
+- LugaresCategoriaId
